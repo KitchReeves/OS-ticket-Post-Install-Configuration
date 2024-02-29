@@ -21,7 +21,6 @@ This post outlines the lifecycle of a ticket from intake to resolution within th
 
 - Intake
 - Assignment and Communication
-- Working the Issue
 - Resolution
 
 <h2>Lifecycle Stages</h2>
